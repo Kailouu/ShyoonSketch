@@ -1,0 +1,14 @@
+{
+  "name": "shyoonsketch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Louis Connors",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
